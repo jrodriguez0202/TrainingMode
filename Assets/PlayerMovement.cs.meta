@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 716f5b90984b381489beae0155b3f76e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - myRigidBody: {instanceID: 0}
+  - spIdle: {fileID: 21300000, guid: 3428e741a5c0d814db8069caf2454c54, type: 3}
+  - spCrouch: {fileID: 21300000, guid: 2ded3b94288571343981ca51c2564270, type: 3}
+  - spLP: {fileID: 21300000, guid: 84448697c8fd35b4191604afb4f0d338, type: 3}
+  - spMP: {fileID: 21300000, guid: d9a8270a99a7b6a4cb712d29c1583f4b, type: 3}
+  - spLK: {fileID: 21300000, guid: 468015d4207f0cf44b97572ee4505551, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
